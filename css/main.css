@@ -1,0 +1,127 @@
+/*this is for the canvas*/
+#pritam{
+	margin-top:10px;
+	padding-left:30px;
+	padding-right:30px;
+	font-size:20px;
+	text-decoration: none;
+}
+#one{
+	padding-left:130px;
+	padding-right:130px;
+	text-orientation: none;
+
+}
+#two{
+	padding-left:130px;
+	padding-right:130px;
+	text-orientation: none;
+
+
+}
+
+
+#three{
+	padding-left:130px;
+	padding-right:130px;
+	text-decoration: none;
+
+}
+/*this is for the existing page*/
+.container{margin:0 auto;}
+body{background-image:url('../img/background2.jpg')
+     }
+.top{height:130px;
+       background-color:green;}
+
+#himal{width:100%;
+        height:100px;}
+#nepal{background-color:orange;}
+#image1{float:left;}
+#two{font-size:23px;
+     text-align:center;
+     color:red;}
+#one{font-size:22px;
+     text-align:center;
+     color:blue;}
+#images{height:200px;
+        width:300px;
+        margin:0 auto;}
+
+#item{color:red;
+      text-align:center;}
+
+#paragraph{color:green;}
+#colid{display:none;}
+#colid1{display:none;}
+#colid2{display:none;}
+#head{color:red;}
+#para{color:blue;}
+
+
+#colid3{display:none;}
+
+/*this is for the jquery plugin*/
+#divSnow{height:370px;
+         width:100%;
+         background-color:black;}
+/*this is for the earth logo*/
+#rotate{height:50px;
+       width:50px;
+      -webkit-animation:spin 10s linear infinite;
+
+}
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+
+/*this is the media query for the front page*/
+@media(max-width: 994px){
+  #image1{width:100%;}
+}
+/*this is for the all images*/
+@media(max-width: 994px){
+  #images{width:100%;
+          height:350px;}
+}
+/*this is for the bhat.html*/
+
+@media(max-width: 994px){
+  #colid{width:100%;
+          height:450px;
+          }
+
+@media(max-width: 994px){
+  #colid1{width:100%;
+          height:450px;}
+
+@media(max-width: 994px){
+  #colid2{width:100%;
+          height:450px;}
+@media(max-width: 994px){
+  #colid3{width:100%;
+          height:450px;}
+
+/*this is the media query for coupen page*/
+@media(max-width: 992px){
+  #coupen{width:100%;
+          height:350px;}
+
+@media(max-width: 994px){
+  #jhi{width:100%;
+          height:350px;}
+
+/*this is for the momo.html*/
+@media(max-width: 992px){
+  #momo{width:100%;
+          height:350px;}
+/*this is for the selroti*/
+@media(max-width: 994px){
+  #sel{width:100%;
+          height:350px;}
+
+
+
+
+
+
+
+
